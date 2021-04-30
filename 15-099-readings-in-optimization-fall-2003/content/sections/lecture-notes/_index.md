@@ -1,0 +1,28 @@
+---
+course_id: 15-099-readings-in-optimization-fall-2003
+layout: course_section
+menu:
+  leftnav:
+    identifier: 76a0e9483ff480d719d11e8735c96df7
+    name: Lecture Notes
+    weight: 40
+title: Lecture Notes
+type: course
+uid: 76a0e9483ff480d719d11e8735c96df7
+
+---
+
+Student presentations, which form the basis for class discussions, are available below. Full citations for the related readings can be found on the [readings]({{< baseurl >}}/sections/readings) page.
+
+| SES # | TOPICS |
+| --- | --- |
+| 1 | _MAXCUT; Semidefinite Programming; and the Goemans-Williamson Paper, "Improved Approximation Algorithms for Maximum Cut and Satisfiability Problems Using Semidefinite Programming."  {{< br >}}_  {{< br >}}Presentation courtesy of Rob Freund ([PDF]({{< baseurl >}}/sections/lecture-notes/ses1_goemans1)). This is a summary presentation based on: Goemans, Michel X., and David P. Williamson. "Improved Approximation Algorithms for Maximum Cut and Satisfiability Problems Using Semidefinite Programming." _Journal of the ACM_ 42, no. 6 (November 1995): 1115-45. |
+| 2 | _Dunagan and Vempala Paper, "Simple Polynomial-Time Rescaling Algorithm for Solving Linear Programs."  {{< br >}}_  {{< br >}}Dunagan, John, and Santosh Vempala. "A Simple Polynomial-Time Rescaling Algorithm for Solving Linear Programs." In Proceedings of the 36th Annual Association for Computing Machinery Symposium on Theory of Computing. New York, NY: ACM Press, 2004.  {{< br >}}  {{< br >}}_Storn and Price Paper, "Differential Evolution - A Simple and Efficient Heuristic for Global Optimization over Continuous Spaces."_  {{< br >}}  {{< br >}}Presentation courtesy of David Craft. Used with permission ([PDF]({{< baseurl >}}/sections/lecture-notes/ses2_storn_price)). This is a summary presentation based on: Storn, Rainer, and Kenneth Price. "Differential Evolution - A Simple and Efficient Heuristic for Global Optimization over Continuous Spaces." _Journal of Global Optimization_ 11 (1997): 341-59. |
+| 3 | _Clarkson Paper, "Las Vegas Algorithms for Linear and Integer Programming When the Dimension Is Small."_  {{< br >}}  {{< br >}}Presentation courtesy of Susan Martonosi. Used with permission ([PDF]({{< baseurl >}}/sections/lecture-notes/ses3_clarkson)). This is a summary presentation based on: Clarkson, Kenneth L. "Las Vegas Algorithms for Linear and Integer Programming When the Dimension Is Small." _Journal of the ACM_ 42, no. 2 (March 1995): 488-99.  {{< br >}}  {{< br >}}_Motwani and Raghavan, Chapter 9 in Randomized Algorithms.  {{< br >}}_  {{< br >}}Presentation courtesy of Jan De Mot. Used with permission ([PDF]({{< baseurl >}}/sections/lecture-notes/ses3_book)). This is a summary presentation based on:  {{< br >}}Motwani, Rajeev, and Prabhakar Raghavan. Chapter 9 in _Randomized Algorithms_. Cambridge, UK: Cambridge University Press, 1995. ISBN: 0-521-47465-5. |
+| 4 | _Kalai Paper #1, "A Subexponential Randomized Simplex Algorithm."  {{< br >}}  {{< br >}}Kalai Paper #2, "Linear Programming, the Simplex Algorithm and Simple Polytopes."_  {{< br >}}  {{< br >}}Both presentations courtesy of Dan Stratila. Used with permission ([PDF]({{< baseurl >}}/sections/lecture-notes/ses4_kalai)). This is a summary presentation based on two papers: Kalai, Gil. "A Subexponential Randomized Simplex Algorithm (Extended Abstract)." In Proceedings of the 24th Annual Association for Computing Machinery Symposium on Theory of Computing. New York, NY: ACM Press, 1992. and,  {{< br >}}  {{< br >}}Kalai, Gil. "Linear Programming, the Simplex Algorithm and Simple Polytopes." Jerusalem, Israel: Hebrew University of Jerusalem, May 1997. |
+| 5 | _Solis and Wets Paper, "Minimization by Random Search Techniques."_  {{< br >}}  {{< br >}}Presentation courtesy of Michele Aghassi. Used with permission ([PDF]({{< baseurl >}}/sections/lecture-notes/ses5_solis_wets)). This is a summary presentation based on: Solis, F. J., and R. J-B. Wets. "Minimization by Random Search Techniques." _Mathematical Operations Research_ 6 (1981): 19-30.  {{< br >}}  {{< br >}}_Romeijn Thesis Book, "Global Optimization by Random Walk Sampling Methods."_ |
+| 6 | _Zabinsky and Smith Paper, "Pure Adaptive Search in Global Optimization."_  {{< br >}}  {{< br >}}Presentation courtesy of Michael Yee. Used with permission ([PDF]({{< baseurl >}}/sections/lecture-notes/ses6_zabinsky1)). This is a summary presentation based on: Zabinsky, Zelda B., and Robert L. Smith. "Pure Adaptive Search in Global Optimization." _Mathematical Programming_ 55 (1992): 323-38.  {{< br >}}  {{< br >}}Presentation courtesy of Michael Yee and Kwong-Meng Teo. Used with permission ([PDF]({{< baseurl >}}/sections/lecture-notes/ses6_zabinsky2)). This is a summary presentation based on: Zabinsky, Zelda B., and Robert L. Smith. "Pure Adaptive Search in Global Optimization." _Mathematical Programming_ 55 (1992): 323-38. |
+| 7 | _Simonovits Paper, "How to Compute the Volume in High Dimension?"_ |
+| 8 | _Romeijn and Smith Paper, "Simulated Annealing for Constrained Global Optimization."_ |
+| 9 | _Bertsimas and Vempala Paper, "Solving Convex Programs by Random Walks."  {{< br >}}  {{< br >}}Zabinsky, Smith, etc. Paper, "Improving Hit-and-Run for Global Optimization."_ |
+| 10 | _Zabinsky, Graesser, etc. Paper, "Global Optimization of Composite Laminates Using Improving Hit and Run."  {{< br >}}  {{< br >}}Sanjeev Paper, "Approximation Schemes for NP-hard Geometric Optimization Problems: A Survey."_
